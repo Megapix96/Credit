@@ -1,0 +1,9 @@
+name: Credit
+main: Megapix96\Credit
+version: 0.1
+api: [1.10.0]
+load: POSTWORLD
+author: Megapix96
+commands:
+ credit:
+  description: "show credits"
